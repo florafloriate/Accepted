@@ -2622,6 +2622,21 @@
     "tags": [],
     "timestamp": "Feb/23/2022 17:43"
   },
+  "CF75128995": {
+    "contest_id": 1331,
+    "language": "GNU C11",
+    "path": "codeforces\\1331\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is it rated?",
+    "problem_url": "https://codeforces.com/contest/1331/problem/A",
+    "submission_id": "CF75128995",
+    "submission_url": "https://codeforces.com/contest/1331/submission/75128995",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "Apr/01/2020 21:16"
+  },
   "CF75561072": {
     "contest_id": 4,
     "language": "GNU C11",
