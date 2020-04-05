@@ -2622,6 +2622,25 @@
     "tags": [],
     "timestamp": "Feb/23/2022 17:43"
   },
+  "CF75592514": {
+    "contest_id": 339,
+    "language": "GNU C11",
+    "path": "codeforces\\339\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Helpful Maths",
+    "problem_url": "https://codeforces.com/contest/339/problem/A",
+    "submission_id": "CF75592514",
+    "submission_url": "https://codeforces.com/contest/339/submission/75592514",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/05/2020 23:20"
+  },
   "CF76093061": {
     "contest_id": 1238,
     "language": "GNU C11",
