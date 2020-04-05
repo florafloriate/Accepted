@@ -2622,6 +2622,22 @@
     "tags": [],
     "timestamp": "Feb/23/2022 17:43"
   },
+  "CF75562407": {
+    "contest_id": 71,
+    "language": "GNU C11",
+    "path": "codeforces\\71\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Way Too Long Words",
+    "problem_url": "https://codeforces.com/contest/71/problem/A",
+    "submission_id": "CF75562407",
+    "submission_url": "https://codeforces.com/contest/71/submission/75562407",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/05/2020 17:24"
+  },
   "CF75575714": {
     "contest_id": 118,
     "language": "GNU C11",
