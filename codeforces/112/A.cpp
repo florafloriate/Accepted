@@ -1,32 +1,36 @@
-#include<bits/stdc++.h>
-#define ll long long
-using namespace std;
-
+#include<stdio.h>
+#include<string.h>
 int main()
 {
-    string x,y;
-    cin>>x>>y;
-    int n=x.size();
-    for(int i=0; i<n; i++)
+    char st1[101],st2[101];
+    scanf("%s", st1);
+    scanf("%s", st2);
+    int sz,i,m=0;
+
+    sz=strlen(st1);
+
+    for(i=0;i<sz;i++)
     {
-        if(x[i]>='A' && x[i]<='Z')
-            x[i]=x[i]- 'A'+ 'a';
-        if(y[i]>='A' && y[i]<='Z')
-            y[i]=y[i]- 'A'+ 'a';
-    }
-    int ans=0;
-    for(int i=0; i<n; i++)
-    {
-        if(x[i]<y[i])
+        if(st1[i]>='A'&&st1[i]<='Z')
         {
-            ans=-1;
-            break;
+            st1[i]=st1[i]+32;
         }
-        else if(x[i]>y[i])
+
+        if(st2[i]>='A'&&st2[i]<='Z')
         {
-            ans=1;
-            break;
+            st2[i]=st2[i]+32;
+        }
+
+        if(st1[i]!=st2[i])
+        {
+            if(st1[i]<st2[i])
+                {printf("-1\n");m++;break;}
+            else if(st1[i]>st2[i])
+                {printf("1\n");m++;break;}
+
         }
     }
-    cout<<ans<<endl;
+    if(m==0)
+        printf("0\n");
+    return 0;
 }
