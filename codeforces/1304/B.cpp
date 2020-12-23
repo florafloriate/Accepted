@@ -1,52 +1,45 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 #define ll long long
-using namespace std;
 
+using namespace std;
 int main()
 {
-    int n,mm;
-    cin>>n>>mm;
-
-    deque<string> dq;
-
-    string s;
+    int n,o;
+    cin>>n>>o;
+    vector<string> farha;
 
     for(int i=0; i<n; i++)
     {
+        string s;
         cin>>s;
-        dq.push_back(s);
+        farha.push_back(s);
     }
 
-    string f="",m="",l="";
+    string f="",l="",m="";
 
-    while(!dq.empty())
+    for(int i=0; i<farha.size(); i++)
     {
-        s=dq.front();
-        reverse(s.begin(),s.end());
-
-        if(s==dq.front())
+        for(int j=0; j<farha.size(); j++)
         {
-            m=s;
-            dq.pop_front();
-        }
-        else
-        {
-            dq.pop_front();
-            for(auto i:dq)
-            {
-                if(i==s)
+                string d=farha[j];
+                reverse(d.begin(),d.end());
+                if(farha[i]==d && i!=j)
                 {
-                    l=s+l;
-                    reverse(s.begin(),s.end());
-                    f=f+s;
-                    break;
+                    f=f+farha[i];
+                    l=farha[j]+l;
+                    farha[i]="";
+                    farha[j]="";
                 }
-            }
+                else if(farha[j]==d && farha[j]!="")
+                {
+                    m=farha[j];
+                    farha[j]="";
+                }
         }
     }
 
-    cout<<f.size()+m.size()+l.size()<<endl;
-    cout<<f<<m<<l<<endl;
+    cout<< f.size()+m.size()+l.size() <<endl;
+    cout<< f << m << l <<endl;
 
     return 0;
 }
