@@ -1,20 +1,21 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 #define ll long long
-using namespace std;
 
+using namespace std;
 int main()
 {
     int t;
     cin>>t;
     while(t--)
     {
-        int x,y,a,b;
+        ll x,y,a,b;
         cin>>x>>y>>a>>b;
 
         if((y-x)%(a+b)==0)
-            cout<<(y-x)/(a+b)<<endl;
+            cout<< (y-x)/(a+b) <<endl;
         else
-            cout<<"-1"<<endl;
+            cout<< "-1\n";
     }
+
     return 0;
 }
