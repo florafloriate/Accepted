@@ -1,4 +1,21 @@
 {
+  "CF104853617": {
+    "contest_id": 1330,
+    "language": "GNU C++17",
+    "path": "codeforces\\1330\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dreamoon Likes Permutations",
+    "problem_url": "https://codeforces.com/contest/1330/problem/B",
+    "submission_id": "CF104853617",
+    "submission_url": "https://codeforces.com/contest/1330/submission/104853617",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jan/20/2021 02:47"
+  },
   "CF104853924": {
     "contest_id": 1362,
     "language": "GNU C++17",
