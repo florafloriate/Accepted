@@ -1,4 +1,21 @@
 {
+  "CF108708945": {
+    "contest_id": 1491,
+    "language": "GNU C++17",
+    "path": "codeforces\\1491\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimal Cost",
+    "problem_url": "https://codeforces.com/contest/1491/problem/B",
+    "submission_id": "CF108708945",
+    "submission_url": "https://codeforces.com/contest/1491/submission/108708945",
+    "tags": [
+      "brute force",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Feb/28/2021 20:43"
+  },
   "CF108866331": {
     "contest_id": 1492,
     "language": "GNU C++17",
