@@ -1,4 +1,21 @@
 {
+  "CF123214954": {
+    "contest_id": 1245,
+    "language": "GNU C++17",
+    "path": "codeforces\\1245\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Good ol' Numbers Coloring",
+    "problem_url": "https://codeforces.com/contest/1245/problem/A",
+    "submission_id": "CF123214954",
+    "submission_url": "https://codeforces.com/contest/1245/submission/123214954",
+    "tags": [
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jul/21/2021 23:56"
+  },
   "CF123292814": {
     "contest_id": 1553,
     "language": "GNU C++17",
