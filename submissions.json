@@ -1,4 +1,20 @@
 {
+  "CF133846467": {
+    "contest_id": 1604,
+    "language": "GNU C++17",
+    "path": "codeforces\\1604\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Era",
+    "problem_url": "https://codeforces.com/contest/1604/problem/A",
+    "submission_id": "CF133846467",
+    "submission_url": "https://codeforces.com/contest/1604/submission/133846467",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/01/2021 11:25"
+  },
   "CF133857736": {
     "contest_id": 1604,
     "language": "GNU C++17",
