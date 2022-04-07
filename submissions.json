@@ -2639,6 +2639,25 @@
     ],
     "timestamp": "Feb/23/2022 22:08"
   },
+  "CF152907343": {
+    "contest_id": 1656,
+    "language": "GNU C++17",
+    "path": "codeforces\\1656\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Make Equal With Mod",
+    "problem_url": "https://codeforces.com/contest/1656/problem/C",
+    "submission_id": "CF152907343",
+    "submission_url": "https://codeforces.com/contest/1656/submission/152907343",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/07/2022 13:50"
+  },
   "CF152982305": {
     "contest_id": 1657,
     "language": "GNU C++17",
