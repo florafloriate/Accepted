@@ -2639,6 +2639,22 @@
     ],
     "timestamp": "Feb/23/2022 22:08"
   },
+  "CF153025092": {
+    "contest_id": 1665,
+    "language": "GNU C++17",
+    "path": "codeforces\\1665\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "GCD vs LCM",
+    "problem_url": "https://codeforces.com/contest/1665/problem/A",
+    "submission_id": "CF153025092",
+    "submission_url": "https://codeforces.com/contest/1665/submission/153025092",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Apr/08/2022 20:41"
+  },
   "CF153042083": {
     "contest_id": 1665,
     "language": "GNU C++17",
