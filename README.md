@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-170 | [A - Array Balancing](https://codeforces.com/contest/1661/problem/A) | [GNU C++17](./codeforces/1661/A.cpp) | `greedy` `math` | Apr/09/2022 20:50 | 
+171 | [A - Array Balancing](https://codeforces.com/contest/1661/problem/A) | [GNU C++17](./codeforces/1661/A.cpp) | `greedy` `math` | Apr/09/2022 20:50 | 
+170 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++17](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` | Apr/08/2022 21:09 | 
 169 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` `*1400` | Feb/23/2022 22:08 | 
 168 | [C - Great Sequence](https://codeforces.com/contest/1642/problem/C) | [GNU C++17](./codeforces/1642/C.cpp) |  | Feb/23/2022 17:43 | 
 167 | [B - Power Walking](https://codeforces.com/contest/1642/problem/B) | [GNU C++17](./codeforces/1642/B.cpp) | `greedy` | Feb/23/2022 16:56 | 
