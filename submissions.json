@@ -2952,6 +2952,23 @@
     ],
     "timestamp": "Apr/09/2022 20:50"
   },
+  "CF153669639": {
+    "contest_id": 507,
+    "language": "GNU C++17",
+    "path": "codeforces\\507\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Amr and Pins",
+    "problem_url": "https://codeforces.com/contest/507/problem/B",
+    "submission_id": "CF153669639",
+    "submission_url": "https://codeforces.com/contest/507/submission/153669639",
+    "tags": [
+      "geometry",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Apr/15/2022 01:04"
+  },
   "CF153705733": {
     "contest_id": 1324,
     "language": "GNU C++17",
