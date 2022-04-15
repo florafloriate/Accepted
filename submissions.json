@@ -2952,6 +2952,41 @@
     ],
     "timestamp": "Apr/09/2022 20:50"
   },
+  "CF153705733": {
+    "contest_id": 1324,
+    "language": "GNU C++17",
+    "path": "codeforces\\1324\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Pair of Topics",
+    "problem_url": "https://codeforces.com/contest/1324/problem/D",
+    "submission_id": "CF153705733",
+    "submission_url": "https://codeforces.com/contest/1324/submission/153705733",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Apr/15/2022 15:02"
+  },
+  "CF153746794": {
+    "contest_id": 698,
+    "language": "GNU C++17",
+    "path": "codeforces\\698\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vacations",
+    "problem_url": "https://codeforces.com/contest/698/problem/A",
+    "submission_id": "CF153746794",
+    "submission_url": "https://codeforces.com/contest/698/submission/153746794",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Apr/15/2022 23:52"
+  },
   "CF153805633": {
     "contest_id": 479,
     "language": "GNU C++17",
