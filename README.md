@@ -12,18 +12,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-199 | [C - Dolce Vita](https://codeforces.com/contest/1671/problem/C) | [GNU C++17](./codeforces/1671/C.cpp) | `binary search` `brute force` `greedy` `math` | Apr/23/2022 06:40 | 
-198 | [B - Consecutive Points Segment](https://codeforces.com/contest/1671/problem/B) | [GNU C++17](./codeforces/1671/B.cpp) | `brute force` `math` | Apr/22/2022 20:48 | 
-197 | [A - String Building](https://codeforces.com/contest/1671/problem/A) | [GNU C++17](./codeforces/1671/A.cpp) | `implementation` | Apr/22/2022 20:41 | 
-196 | [F - Eating Candies](https://codeforces.com/contest/1669/problem/F) | [GNU C++17](./codeforces/1669/F.cpp) | `binary search` `data structures` `greedy` `two pointers` `*1100` | Apr/22/2022 05:04 | 
-195 | [H - Maximal AND](https://codeforces.com/contest/1669/problem/H) | [GNU C++17](./codeforces/1669/H.cpp) | `bitmasks` `greedy` `math` `*1300` | Apr/22/2022 01:47 | 
-194 | [G - Fall Down](https://codeforces.com/contest/1669/problem/G) | [GNU C++17](./codeforces/1669/G.cpp) | `dfs and similar` `implementation` `*1200` | Apr/21/2022 22:00 | 
-193 | [D - Colorful Stamp](https://codeforces.com/contest/1669/problem/D) | [GNU C++17](./codeforces/1669/D.cpp) | `implementation` `*1100` | Apr/21/2022 21:09 | 
-192 | [C - Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | [GNU C++17](./codeforces/1669/C.cpp) | `greedy` `greedy` `implementation` `math` `*800` | Apr/21/2022 20:47 | 
-191 | [B - Triple](https://codeforces.com/contest/1669/problem/B) | [GNU C++17](./codeforces/1669/B.cpp) | `implementation` `sortings` `*800` | Apr/21/2022 20:41 | 
-190 | [A - Division?](https://codeforces.com/contest/1669/problem/A) | [GNU C++17](./codeforces/1669/A.cpp) | `implementation` `*800` | Apr/21/2022 20:37 | 
-189 | [C - Make it Increasing](https://codeforces.com/contest/1668/problem/C) | [GNU C++17](./codeforces/1668/C.cpp) | `brute force` `greedy` `math` `*1300` | Apr/20/2022 00:29 | 
-188 | [B - Social Distance](https://codeforces.com/contest/1668/problem/B) | [GNU C++17](./codeforces/1668/B.cpp) | `greedy` `math` `sortings` `*900` | Apr/19/2022 21:20 | 
+200 | [C - Dolce Vita](https://codeforces.com/contest/1671/problem/C) | [GNU C++17](./codeforces/1671/C.cpp) | `binary search` `brute force` `greedy` `math` | Apr/23/2022 06:40 | 
+199 | [B - Consecutive Points Segment](https://codeforces.com/contest/1671/problem/B) | [GNU C++17](./codeforces/1671/B.cpp) | `brute force` `math` | Apr/22/2022 20:48 | 
+198 | [A - String Building](https://codeforces.com/contest/1671/problem/A) | [GNU C++17](./codeforces/1671/A.cpp) | `implementation` | Apr/22/2022 20:41 | 
+197 | [F - Eating Candies](https://codeforces.com/contest/1669/problem/F) | [GNU C++17](./codeforces/1669/F.cpp) | `binary search` `data structures` `greedy` `two pointers` `*1100` | Apr/22/2022 05:04 | 
+196 | [H - Maximal AND](https://codeforces.com/contest/1669/problem/H) | [GNU C++17](./codeforces/1669/H.cpp) | `bitmasks` `greedy` `math` `*1300` | Apr/22/2022 01:47 | 
+195 | [G - Fall Down](https://codeforces.com/contest/1669/problem/G) | [GNU C++17](./codeforces/1669/G.cpp) | `dfs and similar` `implementation` `*1200` | Apr/21/2022 22:00 | 
+194 | [D - Colorful Stamp](https://codeforces.com/contest/1669/problem/D) | [GNU C++17](./codeforces/1669/D.cpp) | `implementation` `*1100` | Apr/21/2022 21:09 | 
+193 | [C - Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | [GNU C++17](./codeforces/1669/C.cpp) | `greedy` `greedy` `implementation` `math` `*800` | Apr/21/2022 20:47 | 
+192 | [B - Triple](https://codeforces.com/contest/1669/problem/B) | [GNU C++17](./codeforces/1669/B.cpp) | `implementation` `sortings` `*800` | Apr/21/2022 20:41 | 
+191 | [A - Division?](https://codeforces.com/contest/1669/problem/A) | [GNU C++17](./codeforces/1669/A.cpp) | `implementation` `*800` | Apr/21/2022 20:37 | 
+190 | [C - Make it Increasing](https://codeforces.com/contest/1668/problem/C) | [GNU C++17](./codeforces/1668/C.cpp) | `brute force` `greedy` `math` `*1300` | Apr/20/2022 00:29 | 
+189 | [B - Social Distance](https://codeforces.com/contest/1668/problem/B) | [GNU C++17](./codeforces/1668/B.cpp) | `greedy` `math` `sortings` `*900` | Apr/19/2022 21:20 | 
+188 | [A - Direction Change](https://codeforces.com/contest/1668/problem/A) | [GNU C++17](./codeforces/1668/A.cpp) | `implementation` `math` `*800` | Apr/19/2022 20:51 | 
 187 | [A - Array Balancing](https://codeforces.com/contest/1661/problem/A) | [GNU C++17](./codeforces/1661/A.cpp) | `greedy` `math` | Apr/09/2022 20:50 | 
 186 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++17](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` | Apr/08/2022 21:09 | 
 185 | [A - GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | [GNU C++17](./codeforces/1665/A.cpp) | `constructive algorithms` `math` | Apr/08/2022 20:41 | 
