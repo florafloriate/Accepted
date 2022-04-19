@@ -2952,6 +2952,24 @@
     ],
     "timestamp": "Apr/09/2022 20:50"
   },
+  "CF154136276": {
+    "contest_id": 1668,
+    "language": "GNU C++17",
+    "path": "codeforces\\1668\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Make it Increasing",
+    "problem_url": "https://codeforces.com/contest/1668/problem/C",
+    "submission_id": "CF154136276",
+    "submission_url": "https://codeforces.com/contest/1668/submission/154136276",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/20/2022 00:21"
+  },
   "CF154137001": {
     "contest_id": 1668,
     "language": "GNU C++17",

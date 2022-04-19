@@ -20,12 +20,12 @@ int main()
     for(int i=0; i<n; i++)
         cin>>a[i];
 
-    ll mn=1LL<<62;
-    ll l,m,ans;
+    ll mn=(1LL<<62);
+    ll l=0,m=0,ans=0;
     for(int i=0; i<n; i++)
     {
         ans=0;
-        l=1;
+        l=a[i-1];
         for(int j=i-1; j>=0; j--)
         {
             m=l/a[j];
@@ -35,7 +35,7 @@ int main()
             ans+=m;
             l=(m*a[j])+1;
         }
-        l=1;
+        l=a[i+1];
         for(int j=i+1; j<n; j++)
         {
             m=l/a[j];
