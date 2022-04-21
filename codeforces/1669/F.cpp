@@ -25,10 +25,11 @@ int main()
         for(int i=0; i<n; i++)
             cin>>a[i];
 
+        int left=0, right=n-1;
         int lsum=0, rsum=0;
         int cnt=0, ans=0;
 
-        for(int left=0,right=n-1; left<=right;)
+        while(left<=right)
         {
             if(lsum<=rsum)
             {
