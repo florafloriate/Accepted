@@ -1,11 +1,9 @@
-Submissions
-======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
-
-## Introduction
+My Codeforces Submission
+========================
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/farhana_rahman.svg)](https://codeforces.com/profile/farhana_rahman)
+* Codeforces &nbsp; 
+* [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/farhana_rahman.svg)](https://codeforces.com/profile/farhana_rahman)
 
 
 ## Contents
