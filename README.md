@@ -1,5 +1,5 @@
-My Codeforces Submission
-========================
+Codeforces-Solutions
+====================
 
 A repository to keep track of my problem solving practice, containing solutions from platforms: [Codeforces ](https://codeforces.com/)
 
