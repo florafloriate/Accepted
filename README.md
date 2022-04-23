@@ -1,9 +1,8 @@
 My Codeforces Submission
 ========================
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
-* Codeforces &nbsp; 
-* [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/farhana_rahman.svg)](https://codeforces.com/profile/farhana_rahman)
+A repository to keep track of my problem solving practice, containing solutions from platforms: [Codeforces ](https://codeforces.com/)
+My Codeforces handle is [farhana_rahman](https://codeforces.com/profile/farhana_rahman)
 
 
 ## Contents
